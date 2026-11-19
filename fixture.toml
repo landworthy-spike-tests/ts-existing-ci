@@ -1,0 +1,4 @@
+stack = "ts"
+shape = "existing-ci"
+protection = "required-review"
+expect = "pnpm test"
